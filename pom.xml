@@ -47,6 +47,7 @@
 #By ASecurityGuru
 #5/11/2022 11:14 AM IST
 #Default Location of CodeCoverage File is target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
+Reporting
 -->
             <plugin>
                 <groupId>org.jacoco</groupId>
