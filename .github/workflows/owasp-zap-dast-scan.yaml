@@ -5,6 +5,7 @@ on: [push]
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
+    environment: Security-Scan
     name: Scan the web applications
     steps:
       - name: Checkout
